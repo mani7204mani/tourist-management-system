@@ -117,7 +117,7 @@ npm start
 
 - Backend: Deployed on Vercel
 - Frontend: Deployed on Vercel
-- Database: Neon PostgreSQL
+- Database: PostgreSQL
 
 ## Default Admin Credentials
 
