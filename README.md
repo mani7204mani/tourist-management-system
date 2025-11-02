@@ -25,7 +25,10 @@ A full-stack web application for managing tourist bookings with Flask backend an
 
 
 **User Booking Page and booking confirmation mail**
-<img width="434" height="728" alt="image" src="https://github.com/user-attachments/assets/87ff1810-6247-4e14-881b-ab87a012bb24" />   
+
+
+<img width="434" height="728" alt="image" src="https://github.com/user-attachments/assets/87ff1810-6247-4e14-881b-ab87a012bb24" /> 
+
 <img width="556" height="887" alt="image" src="https://github.com/user-attachments/assets/21f39a5a-db15-4ab3-9079-b9f6fbc5f985" />
 
 
