@@ -3,6 +3,7 @@
 A full-stack web application for managing tourist bookings with Flask backend and React frontend.
 
 <img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/fb07c416-1d55-4965-8859-977a011229d9" />
+<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/b9591278-b7de-430f-aa33-412e1aa55259" />
 <img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/a6fd7d66-8ee7-4998-b3e0-ec9c35e8c35e" />
 <img width="961" height="900" alt="image" src="https://github.com/user-attachments/assets/08c3b7f9-ad7b-4aa7-b0f9-4e04c3ae3fee" />
 <img width="436" height="732" alt="image" src="https://github.com/user-attachments/assets/d4311a64-e831-4ab3-8e5f-d2f2c6743f66" />
