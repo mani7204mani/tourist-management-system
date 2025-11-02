@@ -2,6 +2,17 @@
 
 A full-stack web application for managing tourist bookings with Flask backend and React frontend.
 
+<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/fb07c416-1d55-4965-8859-977a011229d9" />
+<img width="1919" height="970" alt="image" src="https://github.com/user-attachments/assets/a6fd7d66-8ee7-4998-b3e0-ec9c35e8c35e" />
+<img width="961" height="900" alt="image" src="https://github.com/user-attachments/assets/08c3b7f9-ad7b-4aa7-b0f9-4e04c3ae3fee" />
+<img width="436" height="732" alt="image" src="https://github.com/user-attachments/assets/d4311a64-e831-4ab3-8e5f-d2f2c6743f66" />
+<img width="616" height="923" alt="image" src="https://github.com/user-attachments/assets/37fdec0d-dbcb-46ba-b6f0-4c0054193aa0" />
+<img width="1128" height="877" alt="image" src="https://github.com/user-attachments/assets/948d9e5f-4931-4f43-ae54-f4fd6ed58b89" />
+<img width="787" height="849" alt="image" src="https://github.com/user-attachments/assets/b8f8afe0-377e-4858-b1a2-a574e11c561a" />
+<img width="791" height="680" alt="image" src="https://github.com/user-attachments/assets/cff697d2-0cde-4529-98eb-a7aa16a7201a" />
+<img width="1326" height="683" alt="image" src="https://github.com/user-attachments/assets/70d89a26-8766-494f-b1aa-d8686b136b44" />
+<img width="811" height="391" alt="image" src="https://github.com/user-attachments/assets/18cbd931-8fe2-44b1-9444-c19558edf774" />
+
 ## Features
 
 - 🔐 User Authentication (OTP-based registration)
