@@ -12,11 +12,10 @@ A full-stack web application for managing tourist bookings with Flask backend an
 <img width="1919" height="919" alt="image" src="https://github.com/user-attachments/assets/aed9c760-f6a9-4b78-a184-bd6e687b181e" />
 
 **Add a Place and manage places feature.**
-<img width="700" height="880" alt="image" src="https://github.com/user-attachments/assets/505a2115-b0a6-4662-a930-3ba01d74887b" />  
+<img width="777" height="847" alt="image" src="https://github.com/user-attachments/assets/afbb786e-126e-405a-8569-2ce5a8d8025a" /> <img width="789" height="679" alt="image" src="https://github.com/user-attachments/assets/1daf00c5-481f-423e-80bd-ef3ff6ebe39a" />
 
-<img width="700" height="667" alt="image" src="https://github.com/user-attachments/assets/90e0747e-2a23-469e-a751-0b4b7b3fe28c" />
 
-**Admin can view user bookings ,trip details and can cancel the booking**
+**Admin can view user bookings ,trip details and can cancel the booking and it will be notified to user**
 <img width="804" height="665" alt="image" src="https://github.com/user-attachments/assets/02faeb2f-e26e-4237-b89c-da5d3cbe1b57" />  <img width="573" height="864" alt="image" src="https://github.com/user-attachments/assets/bea850bf-d150-4a33-9d1d-4a99c0735961" />
 
 **User Places Page**
